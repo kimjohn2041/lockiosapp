@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://github.com/jannakit/freesource/raw/main/images/fifa_1.jpg",
+    "thumb": "https://github.com/jannakit/freesource/raw/main/images/fifa_1_thumb.jpg"
+  },
+  {
+    "url": "https://github.com/jannakit/freesource/raw/main/images/fifa_2.jpg",
+    "thumb": "https://github.com/jannakit/freesource/raw/main/images/fifa_2_thumb.jpg"
+  },
+  {
+    "url": "https://github.com/jannakit/freesource/raw/main/images/fifa_3.jpg",
+    "thumb": "https://github.com/jannakit/freesource/raw/main/images/fifa_3_thumb.jpg"
+  },
+  {
     "url": "https://github.com/jannakit/freesource/raw/main/images/iphone14_9.png",
     "thumb": "https://github.com/jannakit/freesource/raw/main/images/iphone14_9_thumb.png"
   },
