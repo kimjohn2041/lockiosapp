@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://github.com/jannakit/freesource/raw/main/images/noel_6.jpeg",
-    "thumb": "https://github.com/jannakit/freesource/raw/main/images/noel_6_thumb.jpg"
-  },
-  {
-    "url": "https://github.com/jannakit/freesource/raw/main/images/noel_5.jpg",
-    "thumb": "https://github.com/jannakit/freesource/raw/main/images/noel_5_thumb.jpg"
-  },
-  {
-    "url": "https://github.com/jannakit/freesource/raw/main/images/noel_4.jpg",
-    "thumb": "https://github.com/jannakit/freesource/raw/main/images/noel_4_thumb.jpg"
-  },
-  {
-    "url": "https://github.com/jannakit/freesource/raw/main/images/noel_3.jpg",
-    "thumb": "https://github.com/jannakit/freesource/raw/main/images/noel_3_thumb.jpg"
-  },
-  {
-    "url": "https://github.com/jannakit/freesource/raw/main/images/noel_2.jpg",
-    "thumb": "https://github.com/jannakit/freesource/raw/main/images/noel_2_thumb.jpg"
-  },
-  {
-    "url": "https://github.com/jannakit/freesource/raw/main/images/noel_1.jpg",
-    "thumb": "https://github.com/jannakit/freesource/raw/main/images/noel_1_thumb.jpg"
-  },
-  {
     "url": "https://github.com/jannakit/freesource/raw/main/images/iphone14_1.png",
     "thumb": "https://github.com/jannakit/freesource/raw/main/images/iphone14_1_thumb.png"
   },
